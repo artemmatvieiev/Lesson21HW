@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Jacket 1",
+		"price": 100,
+    "isSelected": false,
+		"date": 1504456720000
+  },
+  {
+    "id": 2,
+    "title": "Jacket 5",
+		"price": 50,
+    "isSelected": false,
+		"date": 1504256450000
+  },
+  {
+    "id": 3,
+    "title": "Jacket 3",
+		"price": 230,
+    "isSelected": false,
+		"date": 1504567430000
+  },
+  {
+    "id": 4,
+    "title": "Jacket 4",
+		"price": 150,
+    "isSelected": false,
+		"date": 1504128260000
+  },
+  {
+    "id": 5,
+    "title": "Jacket 2",
+		"price": 600,
+    "isSelected": false,
+		"date": 1504744540000
+  } 
+]
